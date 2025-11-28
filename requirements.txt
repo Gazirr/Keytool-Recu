@@ -1,0 +1,6 @@
+cryptography
+argparse
+json
+base64
+getpass
+hashlib
