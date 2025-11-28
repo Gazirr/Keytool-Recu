@@ -158,10 +158,10 @@ Mini-Keytool (Python)
 
 Commands:
   --genkey    Generate keypair and store in keystore
-              Example: python keytool.py --genkey --alias mykey
+              Example: python3 keytool.py --genkey --alias mykey
 
   --certreq   Generate CSR from stored key
-              Example: python keytool.py --certreq --alias mykey --cn "My Name"
+              Example: python3 keytool.py --certreq --alias mykey --cn "My Name"
 
   --help      Show this help message
 """)
